@@ -32,9 +32,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/seuusuario/moto-viagens-site.git"
+    "url": "https://github.com/brenoandrew/moto-viagens-site.git"
   },
-  "homepage": "https://seuusuario.github.io/moto-viagens-site",
+  "homepage": "https://motoviagens.com.br",
   "browserslist": [
     "> 1%",
     "last 2 versions",
