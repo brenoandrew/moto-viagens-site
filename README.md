@@ -4,7 +4,7 @@ Site de "em construção" para a plataforma Moto Viagens, uma empresa especializ
 
 ## 📱 Demo
 
-[Ver site ao vivo](https://brenoandrew.github.io/moto-viagens-site)
+[Ver site ao vivo](motoviagens.com.br)
 
 ## 🚀 Funcionalidades
 
